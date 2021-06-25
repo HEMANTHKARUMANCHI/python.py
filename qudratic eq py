@@ -1,5 +1,5 @@
 #program to calculate the root of the quadratic equation
-import cmath
+import cmath#cmath denotes +/-
 a=4
 b=3
 c=6
